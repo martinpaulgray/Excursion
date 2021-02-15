@@ -1,0 +1,52 @@
+body{
+	background-color: black;
+}
+h1, p {
+
+	font-family: Verdana;
+	font-weight: normal;
+	text-align: center;
+}
+
+a{
+	color: Aquamarine;
+	font-size: 16px;
+	text-align: center;
+}
+header{
+	text-align: center;
+}
+
+section{
+	
+}
+
+#topheader{
+	font-size: 50px;
+color: white;
+	
+}
+
+#midheader{
+	font-size: 42px;
+	font-weight: 300;
+	color: white;
+	
+}
+
+p{
+	font-size: 21px;
+	color: gray;
+	
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#signoff{
+	text-align: right;
+	font-size: 16px
+}
